@@ -43,7 +43,7 @@ export function EditUserDialog({ user, onUpdateUser, open, onOpenChange }: EditU
                 <DialogHeader>
                     <DialogTitle>Edit User</DialogTitle>
                     <DialogDescription>
-                        Update the user's name. Click save when you're done.
+                        Update the user&apos;s name. Click save when you&apos;re done.
                     </DialogDescription>
                 </DialogHeader>
                 <div className="py-4">
