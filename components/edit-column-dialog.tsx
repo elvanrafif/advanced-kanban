@@ -57,7 +57,7 @@ export function EditColumnDialog({
                 <DialogHeader>
                     <DialogTitle>Edit Column</DialogTitle>
                     <DialogDescription>
-                        Update the column's name or delete the column. Click save when you're done.
+                        Update the column&apos;s name or delete the column. Click save when you&apos;re done.
                     </DialogDescription>
                 </DialogHeader>
                 <div className="py-4">

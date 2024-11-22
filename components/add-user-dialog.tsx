@@ -45,7 +45,7 @@ export function AddUserDialog({ onAddUser }: AddUserDialogProps) {
         <DialogHeader>
           <DialogTitle>Add New User</DialogTitle>
           <DialogDescription>
-            Enter the name of the new user. Click save when you're done.
+            Enter the name of the new user. Click save when you&apos;re done.
           </DialogDescription>
         </DialogHeader>
         <div className="py-4">

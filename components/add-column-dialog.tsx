@@ -39,7 +39,7 @@ export function AddColumnDialog({ onAddColumn }: AddColumnDialogProps) {
         <DialogHeader>
           <DialogTitle>Add New Column</DialogTitle>
           <DialogDescription>
-            Enter a title for the new column. Click save when you're done.
+            Enter a title for the new column. Click save when you&apos;re done.
           </DialogDescription>
         </DialogHeader>
         <div className="py-4">
